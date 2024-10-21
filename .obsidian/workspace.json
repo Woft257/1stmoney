@@ -34,25 +34,19 @@
               "icon": "lucide-file",
               "title": "Description"
             }
+          },
+          {
+            "id": "566d2cffc2c7d87a",
+            "type": "leaf",
+            "state": {
+              "type": "cm-changelog-view",
+              "state": {},
+              "icon": "rocket",
+              "title": "Changelog of Canvas Mindmap"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d1b54260fb76b793",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc03dab19880cf80",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +195,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "45f9ed60e966383d",
