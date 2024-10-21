@@ -1,0 +1,19 @@
+# Bỏ qua thư mục môi trường ảo
+env/
+
+# Bỏ qua các file cache và bytecode Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua file cấu hình IDE (VSCode, PyCharm, v.v.)
+.vscode/
+.idea/
+
+# Bỏ qua các tệp dữ liệu lớn hoặc nhạy cảm
+*.log
+*.sqlite3
+*.env
+
+# Bỏ qua các file tạm thời của hệ điều hành
+.DS_Store
+Thumbs.db
