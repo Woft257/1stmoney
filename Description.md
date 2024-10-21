@@ -139,3 +139,6 @@ Copy code
 Khi ứng dụng phát triển, bạn có thể cân nhắc thêm các tính năng như:
 
 - **Học máy (Machine Learning)**: Gợi ý nhiệm vụ phù hợp cho người dùng dự
+
+
+____________
